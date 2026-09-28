@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-    Colocar este archivo en: app/src/main/res/xml/file_paths.xml
-    Define en que carpeta interna la app puede compartir archivos
-    con otras apps (en este caso, con la app de Camara del celular).
--->
-<paths>
-    <cache-path name="fotos_temp" path="fotos_temp/" />
-</paths>
